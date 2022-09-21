@@ -1,0 +1,7 @@
+nama =input ("Nama kamu siapa? :")
+asaltinggal =input ("Asal kota kamu dari mana? :")
+asalsklh =input ("Asal sekolah kamu dari mana? :")
+
+print ("Hallo selamat siang" +nama)
+print ("Wah kamu dari "  + asaltinggal + "itu tempat yang bagus")
+print ("Pasti menyenagkan sekolah di"  + asalsklh)
